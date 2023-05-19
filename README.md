@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Emir 👋
+I'm a Test Automation Engineer with a strong understanding of Java and Python. My goal is to ensure quality software delivery through robust, comprehensive, and maintainable test suites.
 
-<!--
-**emiryavuz-up/emiryavuz-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Technologies 🛠️
+* Java
+* Python
+* Selenium
+* JUnit
+* TestNG
+* Agile methodologies
+* CI/CD
 
-Here are some ideas to get you started:
+## 🏖️ Personal Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me making music, reading books, or at the gym.
+
+## Contact Me 📫
+* Email: [hemiry96@gmail.com](mailto:hemiry96@gmail.com)
