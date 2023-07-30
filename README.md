@@ -7,6 +7,7 @@ I'm a Test Automation Engineer with a strong understanding of Java and Python. M
 * Selenium
 * JUnit
 * TestNG
+* Maven
 * Agile methodologies
 * CI/CD
 
